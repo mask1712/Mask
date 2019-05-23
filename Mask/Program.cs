@@ -9,7 +9,7 @@ namespace Mask
     static class Program
     {
         /// <summary>
-        /// 应用程序的主入口点。
+        /// 应用程序的主入口点。做一个更改测试
         /// </summary>
         [STAThread]
         static void Main()
